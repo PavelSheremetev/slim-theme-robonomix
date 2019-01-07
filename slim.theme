@@ -6,11 +6,11 @@
 # Messages style and position
 msg_color               #eeeeec
 msg_font                monaco
-msg_x                   50%
+msg_x                   60%
 msg_y                   65%
 
 # Background
-background_style        color
+background_style        stretch
 background_color        #2e3436
 
 # Username / password style, position and text
